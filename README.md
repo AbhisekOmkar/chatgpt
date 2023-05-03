@@ -4,13 +4,13 @@
 ### Preferred Python Version
 Python=3.8.10
 ### How to run setup the chatGPT with pdf for QNA
-cd pdf_to_qna/ *
-chmod 777 setup.sh *
-./setup.sh *
+* cd pdf_to_qna/ 
+* chmod 777 setup.sh
+* ./setup.sh 
 ### How to run run the chatGPT with pdf for QNA
-chmod 777 run.sh *
-In run.sh pass the file path at the 2nd line
-./run.sh
+* chmod 777 run.sh 
+* In run.sh pass the file path at the 2nd line
+* ./run.sh
 ### Ready
 You can ask the question now via terminal
 
@@ -18,13 +18,13 @@ You can ask the question now via terminal
 ### Preferred Python Version
 Python=3.8.10
 ### How to run setup the chatGPT with pdf for QNA
-cd Excel_Bot/ *
-chmod 777 setup.sh *
-./setup.sh *
+* cd Excel_Bot/ 
+* chmod 777 setup.sh 
+* ./setup.sh 
 ### How to run run the chatGPT with pdf for QNA
-chmod 777 run.sh *
-./run.sh *
+* chmod 777 run.sh 
+* ./run.sh 
 ### Ready
-You can ask the question now via terminal
+* You can ask the question now via terminal
 
-[NOTE]: Please pass your own OPENAI_API_KEY in .env file
+NOTE : Please pass your own OPENAI_API_KEY in .env file <br/>
