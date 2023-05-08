@@ -1,0 +1,4 @@
+.env
+.chroma
+.updated_pdf_qna
+__pycache__
