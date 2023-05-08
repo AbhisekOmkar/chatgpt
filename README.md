@@ -13,7 +13,7 @@ Python=3.8.10
 * ./run.sh
 #### Ready
 You can ask the question now via terminal
-![Screenshot](updated_PDF_QNA/chatgpt_with_pdf.png.png) <br/>
+![Screenshot](updated_PDF_QNA/chatgpt_with_pdf.png) <br/>
 
 ## CHATGPT for creating a bot for excel with Chatbot using Excel Package
 #### Preferred Python Version
